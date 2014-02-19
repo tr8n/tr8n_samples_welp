@@ -14,6 +14,7 @@
     <?php include(__DIR__ . '/../vendor/tr8n/tr8n-client-sdk/library/Tr8n/Includes/Scripts.php'); ?>
 
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="google" value="notranslate">
     <title>Welp</title>
 
     <link rel="stylesheet" href="css/style.css">
