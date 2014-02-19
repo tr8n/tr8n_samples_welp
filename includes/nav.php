@@ -21,10 +21,15 @@
                 <li><a href="#"><?php tre("Help") ?></a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
+                <li><a href="#" onClick="Tr8n.UI.LanguageSelector.show(true);">
+                        <img src="<?php echo tr8n_current_language()->flagUrl() ?>"> &nbsp;
+                        <?php echo tr8n_current_language()->english_name ?></a>
+                </li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><?php tre("More {caret}", array("caret" => '<b class="caret"></b>')) ?></a>
 
                     <ul class="dropdown-menu">
+                        <li class="divider"></li>
                         <li><a href="#"><?php tre("Log in") ?></a></li>
                         <li class="divider"></li>
                         <li><a href="#"><?php tre("Sign Up") ?></a></li>
