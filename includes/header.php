@@ -1,5 +1,8 @@
 <?php require_once(__DIR__ . '/../vendor/tr8n/tr8n-client-sdk/library/Tr8n.php'); ?>
-<?php tr8n_init_client_sdk("http://localhost:3000", "7da742563139386ea", "592ede02cbbc85215"); ?>
+<?php
+   tr8n_init_client_sdk("https://sandbox.tr8nhub.com", "28b9b1dff756e6b29", "6bec55ba2e06ae21f");
+// tr8n_init_client_sdk("http://localhost:3000", "7da742563139386ea", "592ede02cbbc85215");
+?>
 
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php echo tr8n_current_language()->locale; ?>"
