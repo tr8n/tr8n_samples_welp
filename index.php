@@ -9,7 +9,7 @@
     <div class="row">
       <div class="col-sm-12">
         <div class="pull-right"><br><a href="#"><?php tre("More Cities") ?></a></div>
-        <h4><?php tre("Welp {city}", ["city" => "Los Angeles"]) ?></h4>
+        <h4><?php tre("Welp {city}", array("city" => "Los Angeles")) ?></h4>
         <hr>
       </div>
     </div>
@@ -29,7 +29,7 @@
           </p>
         </div>
         
-        <h3 class="text-primary"><?php tre("Best of Welp: {city}", ["city" => "Los Angeles"]) ?></h3>
+        <h3 class="text-primary"><?php tre("Best of Welp: {city}", array("city" => "Los Angeles")) ?></h3>
         <hr>
         <small class="pull-right"><a href="#"><?php tre("See More") ?></a></small>
         <h5 class="text-primary"><?php tre("Restaurants") ?></h5>
@@ -42,8 +42,8 @@
           <div class="media-body">
             <strong>1. <a href=""><?php tre("Ricky's Fish Tacos") ?></a></strong>
             <div class="text-muted">
-              <img src="images/4-stars.png" title="<?php trle("{num} out of {count|| star}", ["num" => 4, "count" => 5]) ?>"/>
-              <?php tre("{count|| Review}", ["count" => 14]) ?>
+              <img src="images/4-stars.png" title="<?php trle("{num} out of {count|| star}", array("num" => 4, "count" => 5)) ?>"/>
+              <?php tre("{count|| Review}", array("count" => 14)) ?>
             </div>
             <div class="media">
               <a class="pull-left" href="#">
@@ -63,8 +63,8 @@
           <div class="media-body">
             <strong>2. <a href=""><?php tre("Genwa Korean Bbq") ?></strong>
             <div class="text-muted">
-              <img src="images/3-stars.png" title="<?php trle("{num} out of {count|| star}", ["num" => 3, "count" => 5]) ?>"/>
-              <?php tre("{count|| Review}", ["count" => 567]) ?>
+              <img src="images/3-stars.png" title="<?php trle("{num} out of {count|| star}", array("num" => 3, "count" => 5)) ?>"/>
+              <?php tre("{count|| Review}", array("count" => 567)) ?>
             </div>
             <div class="media">
               <a class="pull-left" href="#">
@@ -85,7 +85,7 @@
             <strong>3. <a href=""><?php tre("Kang Hodong Baekjeong") ?></strong>
             <div class="text-muted">
               <img src="images/2-stars.png" title="<?php trle("2 out of 5 Stars") ?>"/>
-              <?php tre("{count|| Review}", ["count" => 1]) ?>
+              <?php tre("{count|| Review}", array("count" => 1)) ?>
             </div>
             <div class="media">
               <a class="pull-left" href="#">
@@ -105,8 +105,8 @@
           <div class="media-body">
             <strong>4. <a href=""><?php tre("Guisados") ?></strong>
             <div class="text-muted">
-              <img src="images/1-stars.png" title="<?php trle("{num} out of {count|| star}", ["num" => 1, "count" => 5]) ?>"/>
-              <?php tre("{count|| Review}", ["count" => 14]) ?>
+              <img src="images/1-stars.png" title="<?php trle("{num} out of {count|| star}", array("num" => 1, "count" => 5)) ?>"/>
+              <?php tre("{count|| Review}", array("count" => 14)) ?>
             </div>
 
             <div class="media">
@@ -148,10 +148,10 @@
           </a>
           <div class="media-body">
             <strong>
-              <?php tre("[link: {user}] reviewed [link: {business_name}]", ["user" => "Jane Smith", "business_name" => tr("Ricky's Fish Tacos")]) ?>
+              <?php tre("[link: {user}] reviewed [link: {business_name}]", array("user" => "Jane Smith", "business_name" => tr("Ricky's Fish Tacos"))) ?>
             </strong>
-            <div><img src="images/5-stars.png" title="<?php trle("5 out of 5 Stars") ?>"/></div>
-            <small class="text-muted"><?php tre("{count} Reviews", ["count" => 234]) ?></small>
+            <div><img src="images/5-stars.png" title="<?php trle("{num} out of {count|| star}", array("num" => 5, "count" => 5)) ?>"/></div>
+            <small class="text-muted"><?php tre("{count} Reviews", array("count" => 234)) ?></small>
 
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, architecto, laboriosam doloribus sequi tenetur maxime magni porro sunt facilis officia deserunt blanditiis vitae consectetur rerum alias dolorem et dignissimos...
             <a href="#"><?php tre("Read More") ?></a></p>
