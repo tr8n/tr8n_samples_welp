@@ -148,7 +148,7 @@
           </a>
           <div class="media-body">
             <strong>
-              <?php tre("[link: {user}] reviewed [link: {business_name}]", array("link"=>"", "user" => array("object" => array("name" => "Jane Smith", "gender" => "female"), "attribute" => "name"), "business_name" => tr("Ricky's Fish Tacos"))) ?>
+              <?php tre("[link: {user}] reviewed [link: {business_name}]", array("link"=> array("href" => ""), "user" => array("object" => array("name" => "Jane Smith", "gender" => "female"), "attribute" => "name"), "business_name" => tr("Ricky's Fish Tacos"))) ?>
             </strong>
             <div><img src="images/5-stars.png" title="<?php trle("{num} out of {count|| star}", array("num" => 5, "count" => 5)) ?>"/></div>
             <small class="text-muted"><?php tre("{count|| Review}", array("count" => 234)) ?></small>
