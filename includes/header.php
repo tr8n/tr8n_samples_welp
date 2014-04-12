@@ -1,7 +1,8 @@
 <?php require_once(__DIR__ . '/../vendor/tr8n/tr8n-client-sdk/library/Tr8n.php'); ?>
 <?php
-   tr8n_init_client_sdk("https://sandbox.tr8nhub.com", "28b9b1dff756e6b29", "6bec55ba2e06ae21f");
-// tr8n_init_client_sdk("http://localhost:3000", "7da742563139386ea", "592ede02cbbc85215");
+//    tr8n_init_client_sdk("28b9b1dff756e6b29", "6bec55ba2e06ae21f");
+//    tr8n_init_client_sdk("https://sandbox.tr8nhub.com", "28b9b1dff756e6b29", "6bec55ba2e06ae21f");
+     tr8n_init_client_sdk("http://localhost:3000", "7da742563139386ea", "592ede02cbbc85215");
 ?>
 
 <!doctype html>
@@ -11,7 +12,7 @@
 
 <head>
     <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-    <?php include(__DIR__ . '/../vendor/tr8n/tr8n-client-sdk/library/Tr8n/Includes/Scripts.php'); ?>
+    <?php include(__DIR__ . '/../vendor/tr8n/tr8n-client-sdk/library/Tr8n/Includes/HeaderScripts.php'); ?>
 
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="google" value="notranslate">

@@ -40,7 +40,7 @@
             <div class="media-object media-img"></div>
           </a>
           <div class="media-body">
-            <strong>1. <a href=""><?php tre("Ricky's Fish Tacos") ?></a></strong>
+            <strong>1. <a href="">Ricky's Fish Tacos</a></strong>
             <div class="text-muted">
               <img src="images/4-stars.png" title="<?php trle("{num} out of {count|| star}", array("num" => 4, "count" => 5)) ?>"/>
               <?php tre("{count|| Review}", array("count" => 14)) ?>
@@ -56,12 +56,13 @@
           </div>
         </div>
 
+
         <div class="media">
           <a class="pull-left" href="#">
             <div class="media-object media-img"></div>
           </a>
           <div class="media-body">
-            <strong>2. <a href=""><?php tre("Genwa Korean Bbq") ?></strong>
+            <strong>2. <a href="">Genwa Korean Bbq</strong>
             <div class="text-muted">
               <img src="images/3-stars.png" title="<?php trle("{num} out of {count|| star}", array("num" => 3, "count" => 5)) ?>"/>
               <?php tre("{count|| Review}", array("count" => 567)) ?>
@@ -82,9 +83,9 @@
             <div class="media-object media-img"></div>
           </a>
           <div class="media-body">
-            <strong>3. <a href=""><?php tre("Kang Hodong Baekjeong") ?></strong>
+            <strong>3. <a href="">Kang Hodong Baekjeong</strong>
             <div class="text-muted">
-              <img src="images/2-stars.png" title="<?php trle("2 out of 5 Stars") ?>"/>
+              <img src="images/2-stars.png" title="<?php trle("{num} out of {count|| star}", array("num" => 2, "count" => 5)) ?>"/>
               <?php tre("{count|| Review}", array("count" => 1)) ?>
             </div>
             <div class="media">
@@ -103,7 +104,7 @@
             <div class="media-object media-img"></div>
           </a>
           <div class="media-body">
-            <strong>4. <a href=""><?php tre("Guisados") ?></strong>
+            <strong>4. <a href="">Guisados</strong>
             <div class="text-muted">
               <img src="images/1-stars.png" title="<?php trle("{num} out of {count|| star}", array("num" => 1, "count" => 5)) ?>"/>
               <?php tre("{count|| Review}", array("count" => 14)) ?>
@@ -148,7 +149,7 @@
           </a>
           <div class="media-body">
             <strong>
-              <?php tre("[link: {user}] reviewed [link: {business_name}]", array("link"=> array("href" => ""), "user" => array("object" => array("name" => "Jane Smith", "gender" => "female"), "attribute" => "name"), "business_name" => tr("Ricky's Fish Tacos"))) ?>
+              <?php tre("[link: {user}] reviewed [link: {business_name}]", array("link"=> array("href" => ""), "user" => array("object" => array("name" => "Jane Smith", "gender" => "female"), "attribute" => "name"), "business_name" => "Ricky's Fish Tacos")) ?>
             </strong>
             <div><img src="images/5-stars.png" title="<?php trle("{num} out of {count|| star}", array("num" => 5, "count" => 5)) ?>"/></div>
             <small class="text-muted"><?php tre("{count|| Review}", array("count" => 234)) ?></small>
