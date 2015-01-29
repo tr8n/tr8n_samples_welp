@@ -1,34 +1,32 @@
 <p align="center">
-  <img src="https://raw.github.com/tr8n/tr8n/master/doc/screenshots/tr8nlogo.png">
+  <img src="https://avatars0.githubusercontent.com/u/1316274?v=3&s=200">
 </p>
 
-Tr8n PHP Sample Application
-==================
-[![Project status](http://stillmaintained.com/tr8n/tr8n_samples_welp_php.png)](http://stillmaintained.com/tr8n/tr8n_samples_welp_php.png)
+PHP Sample Application
+========================
 
-This sample application demonstrates how to use Tr8n in PHP environment.
+This sample application demonstrates some of the features of TML.
+
 
 Installation
 ==================
-
-
-```bash
-$ git clone https://github.com/tr8n/tr8n_samples_welp_php.git
+```sh
+$ curl -s http://getcomposer.org/installer | php
+$ php composer.phar install
 ```
 
-Setup your PHP path and open the application.
+Integration
+==================
+
+Before you can proceed with the integration, please visit http://translationexchange.com register as a user and create a new application.
+
+Once you have created a new application, go to the security tab in the application administration section and copy your application key and secret.
 
 
 Links
 ==================
 
 * Register at TranslationExchange.com: https://translationexchange.com
-
-* Visit PHP Interactive Documentation: http://php.tr8n.io
-
-* Read TranslationExchange documentation: http://wiki.tr8n.io
-
-* Visit TranslationExchange blog: http://blog.tr8n.io
 
 * Follow TranslationExchange on Twitter: https://twitter.com/translationx
 
@@ -40,7 +38,7 @@ Links
 Copyright and license
 ==================
 
-Copyright (c) 2014 Michael Berkovich, TranslationExchange.com
+Copyright (c) 2015 Translation Exchange, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

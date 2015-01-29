@@ -9,7 +9,7 @@
     <div class="row">
       <div class="col-sm-12">
         <div class="pull-right"><br><a href="#"><?php tre("More Cities") ?></a></div>
-        <h4><?php tre("Welp {city}", array("city" => "Los Angeles")) ?></h4>
+        <h4><?php tre("Welp {city}", array("city" => tr("Los Angeles"))) ?></h4>
         <hr>
       </div>
     </div>
@@ -29,7 +29,7 @@
           </p>
         </div>
         
-        <h3 class="text-primary"><?php tre("Best of Welp: {city}", array("city" => "Los Angeles")) ?></h3>
+        <h3 class="text-primary"><?php tre("Best of Welp: {city}", array("city" => tr("Los Angeles"))) ?></h3>
         <hr>
         <small class="pull-right"><a href="#"><?php tre("See More") ?></a></small>
         <h5 class="text-primary"><?php tre("Restaurants") ?></h5>
