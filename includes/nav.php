@@ -21,10 +21,8 @@
                 <li><a href="#"><?php tre("Help") ?></a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#" onClick="Tml.UI.LanguageSelector.show();">
-                        <img src="<?php echo tml_current_language()->flagUrl() ?>"> &nbsp;
-                        <?php echo tml_current_language()->english_name ?></a>
-                </li>
+                <?php tml_language_selector_tag('bootstrap', array("element" => "li")) ?>
+
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><?php tre("More {caret}", array("caret" => '<b class="caret"></b>')) ?></a>
 
