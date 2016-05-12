@@ -21,7 +21,8 @@
                 <li><a href="#"><?php tre("Help") ?></a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <?php tml_language_selector_tag('bootstrap', array("element" => "li")) ?>
+
+                <?php tml_language_selector_tag('sideflags') ?>
 
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><?php tre("More {caret}", array("caret" => '<b class="caret"></b>')) ?></a>

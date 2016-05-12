@@ -1,0 +1,586 @@
+2016-05-12 15:42:47: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:42:47: Initializing application...
+2016-05-12 15:42:47: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:42:47: Local cache version unsupported
+2016-05-12 15:42:47: Cache version is outdated, needs refresh
+2016-05-12 15:42:47: GET: https://cdn.translationexchange.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/version.json
+2016-05-12 15:42:48: Received compressed 243 uncompressed 243 in 190 milliseconds
+2016-05-12 15:42:48: Storing version in local cache as unsupported
+2016-05-12 15:42:48: memcache - Cache store tml_f8208e72a4ce860e_current_version
+2016-05-12 15:42:48: Application initialized
+2016-05-12 15:42:48: Page loaded in 206 milliseconds
+2016-05-12 15:42:57: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:42:57: Initializing application...
+2016-05-12 15:42:57: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:42:57: Local cache version unsupported
+2016-05-12 15:42:57: Cache version is up to date, expires in 21s
+2016-05-12 15:42:57: Application initialized
+2016-05-12 15:42:57: Page loaded in 16 milliseconds
+2016-05-12 15:43:03: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:43:03: Initializing application...
+2016-05-12 15:43:03: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:43:03: Local cache version unsupported
+2016-05-12 15:43:03: Cache version is up to date, expires in 15s
+2016-05-12 15:43:03: Application initialized
+2016-05-12 15:43:03: Page loaded in 14 milliseconds
+2016-05-12 15:43:20: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:43:20: Initializing application...
+2016-05-12 15:43:20: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:43:20: Local cache version unsupported
+2016-05-12 15:43:20: Cache version is outdated, needs refresh
+2016-05-12 15:43:20: GET: https://cdn.translationexchange.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/version.json
+2016-05-12 15:43:21: Received compressed 243 uncompressed 243 in 222 milliseconds
+2016-05-12 15:43:21: Storing version in local cache as unsupported
+2016-05-12 15:43:21: memcache - Cache store tml_f8208e72a4ce860e_current_version
+2016-05-12 15:43:21: Application initialized
+2016-05-12 15:43:21: Page loaded in 238 milliseconds
+2016-05-12 15:44:14: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:44:14: Initializing application...
+2016-05-12 15:44:14: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:44:14: Local cache version unsupported
+2016-05-12 15:44:14: Cache version is outdated, needs refresh
+2016-05-12 15:44:14: GET: https://cdn.translationexchange.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/version.json
+2016-05-12 15:44:16: Received compressed 243 uncompressed 243 in 1681 milliseconds
+2016-05-12 15:44:16: Storing version in local cache as unsupported
+2016-05-12 15:44:16: memcache - Cache store tml_f8208e72a4ce860e_current_version
+2016-05-12 15:44:16: Application initialized
+2016-05-12 15:44:16: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:44:16: Initializing application...
+2016-05-12 15:44:16: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:44:16: Local cache version unsupported
+2016-05-12 15:44:16: Cache version is up to date, expires in 30s
+2016-05-12 15:44:16: Application initialized
+2016-05-12 15:44:16: Page loaded in 13 milliseconds
+2016-05-12 15:45:58: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:45:58: Initializing application...
+2016-05-12 15:45:58: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:45:58: Local cache version unsupported
+2016-05-12 15:45:58: Cache version is outdated, needs refresh
+2016-05-12 15:45:58: GET: https://cdn.translationexchange.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/version.json
+2016-05-12 15:45:59: Received compressed 243 uncompressed 243 in 747 milliseconds
+2016-05-12 15:45:59: Storing version in local cache as unsupported
+2016-05-12 15:45:59: memcache - Cache store tml_f8208e72a4ce860e_current_version
+2016-05-12 15:45:59: Application initialized
+2016-05-12 15:45:59: Page loaded in 771 milliseconds
+2016-05-12 15:48:21: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:48:21: Initializing application...
+2016-05-12 15:48:21: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:48:21: Local cache version unsupported
+2016-05-12 15:48:21: Cache version is outdated, needs refresh
+2016-05-12 15:48:21: GET: https://cdn.translationexchange.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/version.json
+2016-05-12 15:48:21: Received compressed 243 uncompressed 243 in 317 milliseconds
+2016-05-12 15:48:21: Storing version in local cache as unsupported
+2016-05-12 15:48:21: memcache - Cache store tml_f8208e72a4ce860e_current_version
+2016-05-12 15:48:21: Application initialized
+2016-05-12 15:48:21: Page loaded in 336 milliseconds
+2016-05-12 15:48:29: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:48:29: Initializing application...
+2016-05-12 15:48:29: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:48:29: Local cache version unsupported
+2016-05-12 15:48:29: Cache version is up to date, expires in 22s
+2016-05-12 15:48:29: Application initialized
+2016-05-12 15:48:29: Page loaded in 12 milliseconds
+2016-05-12 15:52:12: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:52:12: Initializing application...
+2016-05-12 15:52:12: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:52:12: Local cache version unsupported
+2016-05-12 15:52:12: Cache version is outdated, needs refresh
+2016-05-12 15:52:12: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/version.json
+2016-05-12 15:52:13: Received compressed 69 uncompressed 69 in 751 milliseconds
+2016-05-12 15:52:13: Storing version in local cache as 20160512154358
+2016-05-12 15:52:13: memcache - Cache store tml_f8208e72a4ce860e_current_version
+2016-05-12 15:52:13: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:52:13: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/application.json
+2016-05-12 15:52:13: Received compressed 2338 uncompressed 2338 in 227 milliseconds
+2016-05-12 15:52:13: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:52:13: Application initialized
+2016-05-12 15:52:13: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:52:13: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/ru/language.json
+2016-05-12 15:52:14: Received compressed 106211 uncompressed 106211 in 386 milliseconds
+2016-05-12 15:52:14: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:52:14: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:52:14: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/en/language.json
+2016-05-12 15:52:14: Received compressed 20291 uncompressed 20291 in 306 milliseconds
+2016-05-12 15:52:14: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:52:14: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:52:14: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/ru/sources/navigation.json
+2016-05-12 15:52:14: Received compressed 640 uncompressed 640 in 261 milliseconds
+2016-05-12 15:52:14: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:52:14: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:52:14: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/ru/sources/index.json
+2016-05-12 15:52:15: Received compressed 2200 uncompressed 2200 in 238 milliseconds
+2016-05-12 15:52:15: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:52:15: Page loaded in 2197 milliseconds
+2016-05-12 15:52:17: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:52:17: Initializing application...
+2016-05-12 15:52:17: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:52:17: Local cache version 20160512154358
+2016-05-12 15:52:17: Cache version is up to date, expires in 26s
+2016-05-12 15:52:17: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:52:17: Application initialized
+2016-05-12 15:52:17: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:52:17: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:52:17: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:52:17: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:52:17: Page loaded in 9 milliseconds
+2016-05-12 15:53:25: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:25: Initializing application...
+2016-05-12 15:53:25: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:25: Local cache version 20160512154358
+2016-05-12 15:53:25: Cache version is outdated, needs refresh
+2016-05-12 15:53:25: GET: https://cdn.translationexchange.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/version.json
+2016-05-12 15:53:26: Received compressed 243 uncompressed 243 in 486 milliseconds
+2016-05-12 15:53:26: Storing version in local cache as unsupported
+2016-05-12 15:53:26: memcache - Cache store tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:26: Application initialized
+2016-05-12 15:53:26: Page loaded in 501 milliseconds
+2016-05-12 15:53:28: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:28: Initializing application...
+2016-05-12 15:53:28: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:28: Local cache version unsupported
+2016-05-12 15:53:28: Cache version is up to date, expires in 28s
+2016-05-12 15:53:28: Application initialized
+2016-05-12 15:53:28: Page loaded in 13 milliseconds
+2016-05-12 15:53:33: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:33: Initializing application...
+2016-05-12 15:53:33: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:33: Local cache version unsupported
+2016-05-12 15:53:33: Cache version is up to date, expires in 23s
+2016-05-12 15:53:33: Application initialized
+2016-05-12 15:53:33: Page loaded in 12 milliseconds
+2016-05-12 15:53:38: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:38: Initializing application...
+2016-05-12 15:53:38: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:38: Local cache version unsupported
+2016-05-12 15:53:38: Cache version is up to date, expires in 18s
+2016-05-12 15:53:38: Application initialized
+2016-05-12 15:53:38: Page loaded in 12 milliseconds
+2016-05-12 15:53:41: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:41: Initializing application...
+2016-05-12 15:53:41: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:41: Local cache version unsupported
+2016-05-12 15:53:41: Cache version is up to date, expires in 15s
+2016-05-12 15:53:41: Application initialized
+2016-05-12 15:53:41: Page loaded in 13 milliseconds
+2016-05-12 15:53:42: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:42: Initializing application...
+2016-05-12 15:53:42: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:42: Local cache version unsupported
+2016-05-12 15:53:42: Cache version is up to date, expires in 14s
+2016-05-12 15:53:42: Application initialized
+2016-05-12 15:53:42: Page loaded in 14 milliseconds
+2016-05-12 15:53:43: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:43: Initializing application...
+2016-05-12 15:53:43: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:43: Local cache version unsupported
+2016-05-12 15:53:43: Cache version is up to date, expires in 13s
+2016-05-12 15:53:43: Application initialized
+2016-05-12 15:53:43: Page loaded in 14 milliseconds
+2016-05-12 15:53:44: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:44: Initializing application...
+2016-05-12 15:53:44: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:44: Local cache version unsupported
+2016-05-12 15:53:44: Cache version is up to date, expires in 12s
+2016-05-12 15:53:44: Application initialized
+2016-05-12 15:53:44: Page loaded in 15 milliseconds
+2016-05-12 15:53:45: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:45: Initializing application...
+2016-05-12 15:53:45: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:45: Local cache version unsupported
+2016-05-12 15:53:45: Cache version is up to date, expires in 11s
+2016-05-12 15:53:45: Application initialized
+2016-05-12 15:53:45: Page loaded in 13 milliseconds
+2016-05-12 15:53:48: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:48: Initializing application...
+2016-05-12 15:53:48: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:48: Local cache version unsupported
+2016-05-12 15:53:48: Cache version is up to date, expires in 8s
+2016-05-12 15:53:48: Application initialized
+2016-05-12 15:53:48: Page loaded in 12 milliseconds
+2016-05-12 15:53:49: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:49: Initializing application...
+2016-05-12 15:53:49: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:49: Local cache version unsupported
+2016-05-12 15:53:49: Cache version is up to date, expires in 7s
+2016-05-12 15:53:49: Application initialized
+2016-05-12 15:53:49: Page loaded in 13 milliseconds
+2016-05-12 15:53:50: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:50: Initializing application...
+2016-05-12 15:53:50: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:50: Local cache version unsupported
+2016-05-12 15:53:50: Cache version is up to date, expires in 6s
+2016-05-12 15:53:50: Application initialized
+2016-05-12 15:53:50: Page loaded in 13 milliseconds
+2016-05-12 15:53:54: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:54: Initializing application...
+2016-05-12 15:53:54: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:54: Local cache version unsupported
+2016-05-12 15:53:54: Cache version is up to date, expires in 2s
+2016-05-12 15:53:54: Application initialized
+2016-05-12 15:53:54: Page loaded in 13 milliseconds
+2016-05-12 15:53:57: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:53:57: Initializing application...
+2016-05-12 15:53:57: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:57: Local cache version unsupported
+2016-05-12 15:53:57: Cache version is outdated, needs refresh
+2016-05-12 15:53:57: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/version.json
+2016-05-12 15:53:57: Received compressed 69 uncompressed 69 in 194 milliseconds
+2016-05-12 15:53:57: Storing version in local cache as 20160512154358
+2016-05-12 15:53:57: memcache - Cache store tml_f8208e72a4ce860e_current_version
+2016-05-12 15:53:57: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:53:57: Application initialized
+2016-05-12 15:53:57: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:53:57: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:53:57: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:53:57: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:53:57: Page loaded in 207 milliseconds
+2016-05-12 15:54:01: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:54:01: Initializing application...
+2016-05-12 15:54:01: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:54:01: Local cache version 20160512154358
+2016-05-12 15:54:01: Cache version is up to date, expires in 26s
+2016-05-12 15:54:01: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:54:01: Application initialized
+2016-05-12 15:54:01: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:54:01: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:54:01: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:54:01: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:54:01: Page loaded in 9 milliseconds
+2016-05-12 15:54:03: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:54:03: Initializing application...
+2016-05-12 15:54:03: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:54:03: Local cache version 20160512154358
+2016-05-12 15:54:03: Cache version is up to date, expires in 24s
+2016-05-12 15:54:03: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:54:03: Application initialized
+2016-05-12 15:54:03: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:54:03: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:54:03: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:54:03: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:54:03: Page loaded in 11 milliseconds
+2016-05-12 15:54:06: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:54:06: Initializing application...
+2016-05-12 15:54:06: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:54:06: Local cache version 20160512154358
+2016-05-12 15:54:06: Cache version is up to date, expires in 21s
+2016-05-12 15:54:06: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:54:06: Application initialized
+2016-05-12 15:54:06: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:54:06: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:54:06: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:54:06: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:54:06: Page loaded in 10 milliseconds
+2016-05-12 15:54:08: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:54:08: Initializing application...
+2016-05-12 15:54:08: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:54:08: Local cache version 20160512154358
+2016-05-12 15:54:08: Cache version is up to date, expires in 19s
+2016-05-12 15:54:08: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:54:08: Application initialized
+2016-05-12 15:54:08: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:54:08: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_en/sources/navigation
+2016-05-12 15:54:08: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/en/sources/navigation.json
+2016-05-12 15:54:09: Received compressed 417 uncompressed 417 in 291 milliseconds
+2016-05-12 15:54:09: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_en/sources/navigation
+2016-05-12 15:54:09: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_en/sources/index
+2016-05-12 15:54:09: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/en/sources/index.json
+2016-05-12 15:54:09: Received compressed 895 uncompressed 895 in 205 milliseconds
+2016-05-12 15:54:09: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_en/sources/index
+2016-05-12 15:54:09: Page loaded in 514 milliseconds
+2016-05-12 15:54:10: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:54:10: Initializing application...
+2016-05-12 15:54:10: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:54:10: Local cache version 20160512154358
+2016-05-12 15:54:10: Cache version is up to date, expires in 17s
+2016-05-12 15:54:10: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:54:10: Application initialized
+2016-05-12 15:54:10: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:54:10: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:54:10: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:54:10: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:54:10: Page loaded in 10 milliseconds
+2016-05-12 15:54:10: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:54:10: Initializing application...
+2016-05-12 15:54:10: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:54:10: Local cache version 20160512154358
+2016-05-12 15:54:10: Cache version is up to date, expires in 17s
+2016-05-12 15:54:10: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:54:10: Application initialized
+2016-05-12 15:54:10: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_it/language
+2016-05-12 15:54:10: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/it/language.json
+2016-05-12 15:54:11: Received compressed 2644 uncompressed 2644 in 264 milliseconds
+2016-05-12 15:54:11: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_it/language
+2016-05-12 15:54:11: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:54:11: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_it/sources/navigation
+2016-05-12 15:54:11: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/it/sources/navigation.json
+2016-05-12 15:54:11: Received compressed 562 uncompressed 562 in 217 milliseconds
+2016-05-12 15:54:11: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_it/sources/navigation
+2016-05-12 15:54:11: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_it/sources/index
+2016-05-12 15:54:11: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/it/sources/index.json
+2016-05-12 15:54:11: Received compressed 1560 uncompressed 1560 in 231 milliseconds
+2016-05-12 15:54:11: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_it/sources/index
+2016-05-12 15:54:11: Page loaded in 731 milliseconds
+2016-05-12 15:54:12: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:54:12: Initializing application...
+2016-05-12 15:54:12: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:54:12: Local cache version 20160512154358
+2016-05-12 15:54:12: Cache version is up to date, expires in 15s
+2016-05-12 15:54:12: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:54:12: Application initialized
+2016-05-12 15:54:12: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_pt/language
+2016-05-12 15:54:12: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/pt/language.json
+2016-05-12 15:54:12: Received compressed 2660 uncompressed 2660 in 239 milliseconds
+2016-05-12 15:54:12: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_pt/language
+2016-05-12 15:54:12: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:54:12: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_pt/sources/navigation
+2016-05-12 15:54:12: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/pt/sources/navigation.json
+2016-05-12 15:54:12: Received compressed 572 uncompressed 572 in 317 milliseconds
+2016-05-12 15:54:12: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_pt/sources/navigation
+2016-05-12 15:54:12: memcache - Cache miss tml_f8208e72a4ce860e_v20160512154358_pt/sources/index
+2016-05-12 15:54:12: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/20160512154358/pt/sources/index.json
+2016-05-12 15:54:13: Received compressed 1563 uncompressed 1563 in 239 milliseconds
+2016-05-12 15:54:13: memcache - Cache store tml_f8208e72a4ce860e_v20160512154358_pt/sources/index
+2016-05-12 15:54:13: Page loaded in 815 milliseconds
+2016-05-12 15:54:15: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:54:15: Initializing application...
+2016-05-12 15:54:15: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:54:15: Local cache version 20160512154358
+2016-05-12 15:54:15: Cache version is up to date, expires in 12s
+2016-05-12 15:54:15: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:54:15: Application initialized
+2016-05-12 15:54:15: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:54:15: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:54:15: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:54:15: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:54:15: Page loaded in 9 milliseconds
+2016-05-12 15:54:15: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:54:15: Initializing application...
+2016-05-12 15:54:15: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:54:15: Local cache version 20160512154358
+2016-05-12 15:54:15: Cache version is up to date, expires in 12s
+2016-05-12 15:54:15: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:54:15: Application initialized
+2016-05-12 15:54:15: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_pt/language
+2016-05-12 15:54:15: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:54:15: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_pt/sources/navigation
+2016-05-12 15:54:15: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_pt/sources/index
+2016-05-12 15:54:15: Page loaded in 14 milliseconds
+2016-05-12 15:54:16: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:54:16: Initializing application...
+2016-05-12 15:54:16: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:54:16: Local cache version 20160512154358
+2016-05-12 15:54:16: Cache version is up to date, expires in 11s
+2016-05-12 15:54:16: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:54:16: Application initialized
+2016-05-12 15:54:16: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_it/language
+2016-05-12 15:54:16: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:54:16: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_it/sources/navigation
+2016-05-12 15:54:16: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_it/sources/index
+2016-05-12 15:54:16: Page loaded in 14 milliseconds
+2016-05-12 15:54:16: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:54:16: Initializing application...
+2016-05-12 15:54:16: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:54:16: Local cache version 20160512154358
+2016-05-12 15:54:16: Cache version is up to date, expires in 11s
+2016-05-12 15:54:16: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:54:16: Application initialized
+2016-05-12 15:54:16: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:54:16: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:54:16: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:54:16: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:54:16: Page loaded in 10 milliseconds
+2016-05-12 15:58:34: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:34: Initializing application...
+2016-05-12 15:58:34: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:34: Local cache version 20160512154358
+2016-05-12 15:58:34: Cache version is outdated, needs refresh
+2016-05-12 15:58:34: GET: https://trex-snapshots-dev.s3-us-west-1.amazonaws.com/f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4/version.json
+2016-05-12 15:58:36: Received compressed 69 uncompressed 69 in 1749 milliseconds
+2016-05-12 15:58:36: Storing version in local cache as 20160512154358
+2016-05-12 15:58:36: memcache - Cache store tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:36: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:36: Application initialized
+2016-05-12 15:58:36: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:58:36: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:36: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:58:36: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:58:36: Page loaded in 1768 milliseconds
+2016-05-12 15:58:37: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:37: Initializing application...
+2016-05-12 15:58:37: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:37: Local cache version 20160512154358
+2016-05-12 15:58:37: Cache version is up to date, expires in 29s
+2016-05-12 15:58:37: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:37: Application initialized
+2016-05-12 15:58:37: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:58:37: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:37: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:58:37: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:58:37: Page loaded in 11 milliseconds
+2016-05-12 15:58:38: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:38: Initializing application...
+2016-05-12 15:58:38: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:38: Local cache version 20160512154358
+2016-05-12 15:58:38: Cache version is up to date, expires in 28s
+2016-05-12 15:58:38: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:38: Application initialized
+2016-05-12 15:58:38: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:58:38: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:38: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:58:38: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:58:38: Page loaded in 10 milliseconds
+2016-05-12 15:58:39: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:39: Initializing application...
+2016-05-12 15:58:39: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:39: Local cache version 20160512154358
+2016-05-12 15:58:39: Cache version is up to date, expires in 27s
+2016-05-12 15:58:39: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:39: Application initialized
+2016-05-12 15:58:39: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_it/language
+2016-05-12 15:58:39: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:39: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_it/sources/navigation
+2016-05-12 15:58:39: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_it/sources/index
+2016-05-12 15:58:39: Page loaded in 15 milliseconds
+2016-05-12 15:58:40: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:40: Initializing application...
+2016-05-12 15:58:40: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:40: Local cache version 20160512154358
+2016-05-12 15:58:40: Cache version is up to date, expires in 26s
+2016-05-12 15:58:40: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:40: Application initialized
+2016-05-12 15:58:40: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_pt/language
+2016-05-12 15:58:40: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:40: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_pt/sources/navigation
+2016-05-12 15:58:40: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_pt/sources/index
+2016-05-12 15:58:40: Page loaded in 13 milliseconds
+2016-05-12 15:58:41: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:41: Initializing application...
+2016-05-12 15:58:41: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:41: Local cache version 20160512154358
+2016-05-12 15:58:41: Cache version is up to date, expires in 25s
+2016-05-12 15:58:41: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:41: Application initialized
+2016-05-12 15:58:41: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:58:41: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:41: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:58:41: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:58:41: Page loaded in 11 milliseconds
+2016-05-12 15:58:41: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:41: Initializing application...
+2016-05-12 15:58:41: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:41: Local cache version 20160512154358
+2016-05-12 15:58:41: Cache version is up to date, expires in 25s
+2016-05-12 15:58:41: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:41: Application initialized
+2016-05-12 15:58:41: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:41: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/sources/navigation
+2016-05-12 15:58:41: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/sources/index
+2016-05-12 15:58:41: Page loaded in 13 milliseconds
+2016-05-12 15:58:42: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:42: Initializing application...
+2016-05-12 15:58:42: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:42: Local cache version 20160512154358
+2016-05-12 15:58:42: Cache version is up to date, expires in 24s
+2016-05-12 15:58:42: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:42: Application initialized
+2016-05-12 15:58:42: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:58:42: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:42: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:58:42: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:58:42: Page loaded in 9 milliseconds
+2016-05-12 15:58:43: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:43: Initializing application...
+2016-05-12 15:58:43: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:43: Local cache version 20160512154358
+2016-05-12 15:58:43: Cache version is up to date, expires in 23s
+2016-05-12 15:58:43: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:43: Application initialized
+2016-05-12 15:58:43: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_it/language
+2016-05-12 15:58:43: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:43: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_it/sources/navigation
+2016-05-12 15:58:43: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_it/sources/index
+2016-05-12 15:58:43: Page loaded in 15 milliseconds
+2016-05-12 15:58:43: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:43: Initializing application...
+2016-05-12 15:58:43: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:43: Local cache version 20160512154358
+2016-05-12 15:58:43: Cache version is up to date, expires in 23s
+2016-05-12 15:58:43: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:43: Application initialized
+2016-05-12 15:58:43: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_pt/language
+2016-05-12 15:58:43: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:43: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_pt/sources/navigation
+2016-05-12 15:58:43: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_pt/sources/index
+2016-05-12 15:58:43: Page loaded in 14 milliseconds
+2016-05-12 15:58:44: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:44: Initializing application...
+2016-05-12 15:58:44: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:44: Local cache version 20160512154358
+2016-05-12 15:58:44: Cache version is up to date, expires in 22s
+2016-05-12 15:58:44: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:44: Application initialized
+2016-05-12 15:58:44: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:58:44: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:44: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:58:44: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:58:44: Page loaded in 11 milliseconds
+2016-05-12 15:58:45: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:45: Initializing application...
+2016-05-12 15:58:45: GET: http://localhost:3000/v1/projects/current/definition?locale=ru&source=index&ignored=true&access_token=3780da58c36260f9ef461566598c62c7bbfb9bc5611edadfd6627a4d68fd85a4&app_id=f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:45: Received compressed 10738 uncompressed 131792 in 213 milliseconds
+2016-05-12 15:58:45: Application initialized
+2016-05-12 15:58:45: Page loaded in 221 milliseconds
+2016-05-12 15:58:47: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:47: Initializing application...
+2016-05-12 15:58:47: GET: http://localhost:3000/v1/projects/current/definition?locale=it&source=index&ignored=true&access_token=3780da58c36260f9ef461566598c62c7bbfb9bc5611edadfd6627a4d68fd85a4&app_id=f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:48: Received compressed 5052 uncompressed 27501 in 186 milliseconds
+2016-05-12 15:58:48: Application initialized
+2016-05-12 15:58:48: Page loaded in 199 milliseconds
+2016-05-12 15:58:49: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:49: Initializing application...
+2016-05-12 15:58:49: GET: http://localhost:3000/v1/projects/current/definition?locale=pt&source=index&ignored=true&access_token=3780da58c36260f9ef461566598c62c7bbfb9bc5611edadfd6627a4d68fd85a4&app_id=f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:49: Received compressed 5082 uncompressed 27536 in 252 milliseconds
+2016-05-12 15:58:49: Application initialized
+2016-05-12 15:58:49: Page loaded in 265 milliseconds
+2016-05-12 15:58:50: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:50: Initializing application...
+2016-05-12 15:58:50: GET: http://localhost:3000/v1/projects/current/definition?locale=ru&source=index&ignored=true&access_token=3780da58c36260f9ef461566598c62c7bbfb9bc5611edadfd6627a4d68fd85a4&app_id=f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:50: Received compressed 10738 uncompressed 131792 in 286 milliseconds
+2016-05-12 15:58:50: Application initialized
+2016-05-12 15:58:50: Page loaded in 294 milliseconds
+2016-05-12 15:58:54: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:54: Initializing application...
+2016-05-12 15:58:54: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:54: Local cache version 20160512154358
+2016-05-12 15:58:54: Cache version is up to date, expires in 12s
+2016-05-12 15:58:54: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:54: Application initialized
+2016-05-12 15:58:54: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:58:54: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:54: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:58:54: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:58:54: Page loaded in 10 milliseconds
+2016-05-12 15:58:56: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:56: Initializing application...
+2016-05-12 15:58:56: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:56: Local cache version 20160512154358
+2016-05-12 15:58:56: Cache version is up to date, expires in 10s
+2016-05-12 15:58:56: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:56: Application initialized
+2016-05-12 15:58:56: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:58:56: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:56: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:58:56: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:58:56: Page loaded in 10 milliseconds
+2016-05-12 15:58:56: Cookie name: trex_f8208e72a4ce860e9291ac93ecb6b92c1db822987f6b23c6aeb4914cf6f0dbf4
+2016-05-12 15:58:56: Initializing application...
+2016-05-12 15:58:56: memcache - Cache hit tml_f8208e72a4ce860e_current_version
+2016-05-12 15:58:56: Local cache version 20160512154358
+2016-05-12 15:58:56: Cache version is up to date, expires in 10s
+2016-05-12 15:58:56: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_application
+2016-05-12 15:58:56: Application initialized
+2016-05-12 15:58:56: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/language
+2016-05-12 15:58:56: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_en/language
+2016-05-12 15:58:56: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/navigation
+2016-05-12 15:58:56: memcache - Cache hit tml_f8208e72a4ce860e_v20160512154358_ru/sources/index
+2016-05-12 15:58:56: Page loaded in 10 milliseconds
